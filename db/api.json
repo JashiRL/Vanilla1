@@ -1,0 +1,63 @@
+[
+    {
+        "precio": 500,
+        "id": 1,
+        "title": "Café",
+        "imageUrl": "https://picsum.photos/id/0/600"
+    }
+    ,
+    {
+        "precio": 12000 ,
+        "id": 2,
+        "title": "Mac",
+        "imageUrl": "https://picsum.photos/id/5/600"
+    } ,
+    {
+        "precio": 900,
+        "id": 3,
+        "title": "Escritorio",
+        "imageUrl": "https://picsum.photos/id/20/600"
+    },
+    {
+        "precio": 300,
+        "id": 4,
+        "title": "Taza",
+        "imageUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+        "precio": 5000,
+        "id": 5,
+        "title": "Gato",
+        "imageUrl": "https://picsum.photos/id/40/600"
+    },
+    {
+        "precio": 6000,
+        "id": 6,
+        "title": "Pato",
+        "imageUrl": "https://picsum.photos/id/50/600"
+    },
+    {
+        "precio": 1200,
+        "id": 7,
+        "title": "Lentes",
+        "imageUrl": "https://picsum.photos/id/60/600"
+    },
+    {
+        "precio": 50000,
+        "id": 8,
+        "title": "Viaje",
+        "imageUrl": "https://picsum.photos/id/70/600"
+    },
+    {
+        "precio": 500,
+        "id": 9,
+        "title": "piña pino",
+        "imageUrl": "https://picsum.photos/id/80/600"
+    },
+    {
+        "precio": 300,
+        "id": 10,
+        "title": "Bootles",
+        "imageUrl": "https://picsum.photos/id/90/600"
+    }
+]
